@@ -65,7 +65,7 @@ public class BatalhaNaval { private static final int TAMANHO = 5; private static
 
     public static void main(String[] args) {
         Scanner escaner = new Scanner(System.in);
-        teste jogo = new teste();
+        BatalhaNaval jogo = new BatalhaNaval();
 
         System.out.println("Bem-vindo ao Batalha Naval!");
 
